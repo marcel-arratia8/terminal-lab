@@ -24,3 +24,6 @@ independiente de los demas: se puede ejecutar sin haber hecho las otras semanas.
 - Bash 5.x sobre Debian
 - PowerShell 7.x
 - Git 2.x
+## Como ejecutar 
+Cada ‘semanaNN/README.md‘ documenta como ejecutar el script de esa semana. 
+Todo el trabajo se hace en la rama ‘main‘.
