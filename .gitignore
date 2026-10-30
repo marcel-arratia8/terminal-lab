@@ -1,0 +1,17 @@
+# temporales del editor
+*~
+*.swp
+*.tmp
+*.bak
+
+#Salidas generadas por los scripst
+salida/
+organized/
+respaldos/
+# No excluir *.log: los .log de entreda de kis capstones SI se versionan.
+
+# Archivos comprimidos generados
+respaldo-*.tar.gz
+
+#Credenciales
+.env
